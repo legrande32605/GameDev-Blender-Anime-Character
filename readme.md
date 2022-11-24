@@ -16,8 +16,5 @@ Following design project to practice scupting
 ### Section 1 - Modelling The Face
 - Part 1: Modeling The Face Outline   
 [![Modeling The Face Outline](./Renders/Thumb%20-%20Modeling%20The%20Face%20Outline.png)](./Renders/Modeling%20The%20Face%20Outline.png)
-<<<<<<< HEAD
 - Part 2: The Nose and Mouth   
 [![The Nose and Mouth](./Renders/Thumb%20-%20The%20Nose%20and%20Mouth.png)](./Renders/The%20Nose%20and%20Mouth.png)
-=======
->>>>>>> Blender_Anime_Character/master
