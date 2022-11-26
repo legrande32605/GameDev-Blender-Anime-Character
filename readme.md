@@ -18,3 +18,6 @@ Following design project to practice scupting
 [![Modeling The Face Outline](./Renders/Thumb%20-%20Modeling%20The%20Face%20Outline.png)](./Renders/Modeling%20The%20Face%20Outline.png)
 - Part 2: The Nose and Mouth   
 [![The Nose and Mouth](./Renders/Thumb%20-%20The%20Nose%20and%20Mouth.png)](./Renders/The%20Nose%20and%20Mouth.png)
+- Part 3: Filling In (w/o and w/SubSurface Modifier)  
+[![Filling In](./Renders/Thumb%20-%20Filling%20In.png)](./Renders/Filling%20In.png)
+[![Filling In w/SubSurface](./Renders/Thumb%20-%20Filling%20In-SubSurface.png)](./Renders/Filling%20In-SubSurface.png)
