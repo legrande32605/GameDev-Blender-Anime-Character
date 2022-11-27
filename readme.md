@@ -22,5 +22,5 @@ Following design project to practice scupting
 [![Filling In](./Renders/Thumb%20-%20Filling%20In.png)](./Renders/Filling%20In.png)
 [![Filling In w/SubSurface](./Renders/Thumb%20-%20Filling%20In-SubSurface.png)](./Renders/Filling%20In-SubSurface.png)
 - Part 4: Back of the Skull (w/o and w/SubSurface Modifier)  
-[![Back of the Skull](./Renders/Thumb%20-%20Back%20of%20the%20Skull-SubSurface.png)](./Renders/Back%20of%20the%20Skull-SubSurface.png)
+[![Back of the Skull](./Renders/Thumb%20-%20Back%20of%20the%20Skull.png)](./Renders/Back%20of%20the%20Skull.png)
 [![Back of the Skull](./Renders/Thumb%20-%20Back%20of%20the%20Skull-SubSurface.png)](./Renders/Back%20of%20the%20Skull-SubSurface.png)
