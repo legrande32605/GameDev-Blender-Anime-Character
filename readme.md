@@ -26,3 +26,5 @@ Following design project to practice scupting
 [![Back of the Skull](./Renders/Thumb%20-%20Back%20of%20the%20Skull-SubSurface.png)](./Renders/Back%20of%20the%20Skull-SubSurface.png)
 - Part 5: The Neck   
 [![The Neck](./Renders/Thumb%20-%20The%20Neck.png)](./Renders/The%20Neck.png)
+- Part 6: Inside Eyes and Mouth   
+[![Inside Eyes and Mouth](./Renders/Thumb%20-%20Inside%20Eyes%20and%20Mouth.png)](./Renders/Inside%20Eyes%20and%20Mouth.png)
