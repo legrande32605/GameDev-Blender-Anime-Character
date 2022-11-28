@@ -24,3 +24,5 @@ Following design project to practice scupting
 - Part 4: Back of the Skull (w/o and w/SubSurface Modifier)  
 [![Back of the Skull](./Renders/Thumb%20-%20Back%20of%20the%20Skull.png)](./Renders/Back%20of%20the%20Skull.png)
 [![Back of the Skull](./Renders/Thumb%20-%20Back%20of%20the%20Skull-SubSurface.png)](./Renders/Back%20of%20the%20Skull-SubSurface.png)
+- Part 5: The Neck   
+[![The Neck](./Renders/Thumb%20-%20The%20Neck.png)](./Renders/The%20Neck.png)
