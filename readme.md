@@ -28,3 +28,5 @@ Following design project to practice scupting
 [![The Neck](./Renders/Thumb%20-%20The%20Neck.png)](./Renders/The%20Neck.png)
 - Part 6: Inside Eyes and Mouth   
 [![Inside Eyes and Mouth](./Renders/Thumb%20-%20Inside%20Eyes%20and%20Mouth.png)](./Renders/Inside%20Eyes%20and%20Mouth.png)
+- Part 7: The Ears and Subdivision Modifier   
+[![The Ears and Subdivision Modifier](./Renders/Thumb%20-%20The%20Ears%20and%20Subdivision%20Modifier.png)](./Renders/The%20Ears%20and%20Subdivision%20Modifier.png)
