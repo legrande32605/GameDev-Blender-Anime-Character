@@ -13,7 +13,7 @@ Following design project to practice scupting
 
 
 ## Results of Course Videos
-### Section 1 - Modelling The Face
+### Section 1 - Modeling The Face
 - Part 1: Modeling The Face Outline   
 [![Modeling The Face Outline](./Renders/Thumb%20-%20Modeling%20The%20Face%20Outline.png)](./Renders/Modeling%20The%20Face%20Outline.png)
 - Part 2: The Nose and Mouth   
@@ -30,3 +30,6 @@ Following design project to practice scupting
 [![Inside Eyes and Mouth](./Renders/Thumb%20-%20Inside%20Eyes%20and%20Mouth.png)](./Renders/Inside%20Eyes%20and%20Mouth.png)
 - Part 7: The Ears and Subdivision Modifier   
 [![The Ears and Subdivision Modifier](./Renders/Thumb%20-%20The%20Ears%20and%20Subdivision%20Modifier.png)](./Renders/The%20Ears%20and%20Subdivision%20Modifier.png)
+### Section 2 - Modelling The Body
+- Part 1: The Torso   
+[![The Torso](./Renders/Thumb%20-%20The%20Torso.png)](./Renders/The%20Torso.png)
