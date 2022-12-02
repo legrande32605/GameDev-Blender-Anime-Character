@@ -33,3 +33,5 @@ Following design project to practice scupting
 ### Section 2 - Modelling The Body
 - Part 1: The Torso   
 [![The Torso](./Renders/Thumb%20-%20The%20Torso.png)](./Renders/The%20Torso.png)
+- Part 2: The Chest and Buttocks   
+[![The Chest and Buttocks](./Renders/Thumb%20-%20The%20Chest%20and%20Buttocks.png)](./Renders/The%20Chest%20and%20Buttocks.png)
