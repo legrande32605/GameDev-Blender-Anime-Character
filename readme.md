@@ -37,3 +37,5 @@ Following design project to practice scupting
 [![The Chest and Buttocks](./Renders/Thumb%20-%20The%20Chest%20and%20Buttocks.png)](./Renders/The%20Chest%20and%20Buttocks.png)
 - Part 3: The Legs   
 [![The Legs](./Renders/Thumb%20-%20The%20Legs.png)](./Renders/The%20Legs.png)
+- Part 4: The Feet   
+[![The Feet](./Renders/Thumb%20-%20The%20Feet.png)](./Renders/The%20Feet.png)
