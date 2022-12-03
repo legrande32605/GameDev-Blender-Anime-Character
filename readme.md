@@ -41,3 +41,6 @@ Following design project to practice scupting
 [![The Feet](./Renders/Thumb%20-%20The%20Feet.png)](./Renders/The%20Feet.png)
 - Part 5: The Arms   
 [![The Arms](./Renders/Thumb%20-%20The%20Arms.png)](./Renders/The%20Arms.png)
+- Part 6: The Hands   
+[![The Hands](./Renders/Thumb%20-%20The%20Hands.png)](./Renders/The%20Hands.png)
+[![The Hand](./Renders/Thumb%20-%20The%20Hand.png)](./Renders/The%20Hand.png)
