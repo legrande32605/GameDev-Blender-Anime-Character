@@ -51,3 +51,5 @@ Following design project to practice scupting
 [![Iris and Face Adjustments](./Renders/Thumb%20-%20Iris%20and%20Face.png)](./Renders/Iris%20and%20Face.png)
 - Part 9: Upper Body Adjustments   
 [![Upper Body Adjustments](./Renders/Thumb%20-%20Upper%20Body.png)](./Renders/Upper%20Body.png)
+- Part 9: Lower Body Adjustments   
+[![ULower Body Adjustments](./Renders/Thumb%20-%20Lower%20Body.png)](./Renders/Lower%20Body.png)
