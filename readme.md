@@ -56,3 +56,5 @@ Following design project to practice scupting
 ### Section 3 - Hair and Clothing
 - Part 1: Upper Boots   
 [![Upper Boots](./Renders/Thumb%20-%20Upper%20Boots.png)](./Renders/Upper%20Boots.png)
+- Part 2: Lower Boots   
+[![Lower Boots](./Renders/Thumb%20-%20Lower%20Boots.png)](./Renders/Lower%20Boots.png)
