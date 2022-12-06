@@ -53,3 +53,6 @@ Following design project to practice scupting
 [![Upper Body Adjustments](./Renders/Thumb%20-%20Upper%20Body.png)](./Renders/Upper%20Body.png)
 - Part 9: Lower Body Adjustments   
 [![ULower Body Adjustments](./Renders/Thumb%20-%20Lower%20Body.png)](./Renders/Lower%20Body.png)
+### Section 3 - Hair and Clothing
+- Part 1: Upper Boots   
+[![Upper Boots](./Renders/Thumb%20-%20Upper%20Boots.png)](./Renders/Upper%20Boots.png)
