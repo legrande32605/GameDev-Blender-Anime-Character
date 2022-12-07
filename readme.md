@@ -62,3 +62,5 @@ Following design project to practice scupting
 [![Creases and Details](./Renders/Thumb%20-%20Creases%20and%20Details.png)](./Renders/Creases%20and%20Details.png)
 - Part 3 (ALT): Baby's Got New Shoes   
 [![Baby's Got New Shoes](./Renders/Thumb%20-%20Alt%20Clothes-Shoes.png)](./Renders/Alt%20Clothes-Shoes.png)
+- Part 4: The Gloves   
+[![The Gloves](./Renders/Thumb%20-%20The%20Gloves.png)](./Renders/The%20Gloves.png)
