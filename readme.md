@@ -58,3 +58,5 @@ Following design project to practice scupting
 [![Upper Boots](./Renders/Thumb%20-%20Upper%20Boots.png)](./Renders/Upper%20Boots.png)
 - Part 2: Lower Boots   
 [![Lower Boots](./Renders/Thumb%20-%20Lower%20Boots.png)](./Renders/Lower%20Boots.png)
+- Part 3: Creases and Details   
+[![Creases and Details](./Renders/Thumb%20-%20Creases%20and%20Details.png)](./Renders/Creases%20and%20Details.png)
