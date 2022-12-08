@@ -64,5 +64,7 @@ Following design project to practice scupting
 [![Baby's Got New Shoes](./Renders/Thumb%20-%20Alt%20Clothes-Shoes.png)](./Renders/Alt%20Clothes-Shoes.png)
 - Part 4: The Gloves   
 [![The Gloves](./Renders/Thumb%20-%20The%20Gloves.png)](./Renders/The%20Gloves.png)
-- Part 4: The Trousers   
+- Part 5: The Trousers   
 [![The Trousers](./Renders/Thumb%20-%20The%20Trousers.png)](./Renders/The%20Trousers.png)
+- Part 5 (ALT): Baby's Got New Shoes   
+[![Daisy Dukes](./Renders/Thumb%20-%20Alt%20Clothes-Trousers.png)](./Renders/Alt%20Clothes-Trousers.png)
