@@ -47,7 +47,7 @@ Following design project to practice scupting
 - Part 7: The Fingers   
 [![The Fingers](./Renders/Thumb%20-%20The%20Fingers.png)](./Renders/The%20Fingers.png)
 [![The Fingers - Up Close](./Renders/Thumb%20-%20The%20Fingers-close.png)](./Renders/The%20Fingers-close.png)
-- Part 8: The Fingers   
+- Part 8: The Iris and Face Adjustments
 [![Iris and Face Adjustments](./Renders/Thumb%20-%20Iris%20and%20Face.png)](./Renders/Iris%20and%20Face.png)
 - Part 9: Upper Body Adjustments   
 [![Upper Body Adjustments](./Renders/Thumb%20-%20Upper%20Body.png)](./Renders/Upper%20Body.png)
