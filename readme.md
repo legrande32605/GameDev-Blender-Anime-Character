@@ -72,3 +72,5 @@ Following design project to practice scupting
 [![Daisy Dukes](./Renders/Thumb%20-%20Alt%20Clothes-Hat.png)](./Renders/Alt%20Clothes-Hat.png)
 - Part 6: The Shirt   
 [![The Shirt](./Renders/Thumb%20-%20The%20Shirt.png)](./Renders/The%20Shirt.png)
+- Part 7: The Corset   
+[![The Corset](./Renders/Thumb%20-%20The%20Corset.png)](./Renders/The%20Corset.png)
