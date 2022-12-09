@@ -70,3 +70,5 @@ Following design project to practice scupting
 [![Daisy Dukes](./Renders/Thumb%20-%20Alt%20Clothes-Trousers.png)](./Renders/Alt%20Clothes-Trousers.png)
 - Part None (ALT): A Hat  
 [![Daisy Dukes](./Renders/Thumb%20-%20Alt%20Clothes-Hat.png)](./Renders/Alt%20Clothes-Hat.png)
+- Part 6: The Shirt   
+[![The Shirt](./Renders/Thumb%20-%20The%20Shirt.png)](./Renders/The%20Shirt.png)
