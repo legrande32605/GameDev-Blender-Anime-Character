@@ -74,3 +74,5 @@ Following design project to practice scupting
 [![The Shirt](./Renders/Thumb%20-%20The%20Shirt.png)](./Renders/The%20Shirt.png)
 - Part 7: The Corset   
 [![The Corset](./Renders/Thumb%20-%20The%20Corset.png)](./Renders/The%20Corset.png)
+- Part 8: The Belt   
+[![The Belt](./Renders/Thumb%20-%20The%20Belt.png)](./Renders/The%20Belt.png)
