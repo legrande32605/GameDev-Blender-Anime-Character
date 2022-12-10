@@ -81,3 +81,5 @@ Following design project to practice scupting
 [![The Buckle-Close](./Renders/Thumb%20-%20The%20Buckle-close.png)](./Renders/The%20Buckle-close.png)
 - Part 10: Eye Lashes   
 [![Eye Lashes](./Renders/Thumb%20-%20Facial%20Hair.png)](./Renders/Facial%20Hair.png)
+- Part 11: Shirt Drawstring   
+[![Shirt Drawstring](./Renders/Thumb%20-%20Drawstring.png)](./Renders/Drawstring.png)
