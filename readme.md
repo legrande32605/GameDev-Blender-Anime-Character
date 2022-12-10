@@ -76,3 +76,6 @@ Following design project to practice scupting
 [![The Corset](./Renders/Thumb%20-%20The%20Corset.png)](./Renders/The%20Corset.png)
 - Part 8: The Belt   
 [![The Belt](./Renders/Thumb%20-%20The%20Belt.png)](./Renders/The%20Belt.png)
+- Part 9: The Buckle   
+[![The Buckle](./Renders/Thumb%20-%20The%20Buckle.png)](./Renders/The%20Buckle.png)
+[![The Buckle-Close](./Renders/Thumb%20-%20The%20Buckle-Close.png)](./Renders/The%20Buckle-Close.png)
