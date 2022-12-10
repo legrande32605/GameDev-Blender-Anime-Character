@@ -79,3 +79,5 @@ Following design project to practice scupting
 - Part 9: The Buckle   
 [![The Buckle](./Renders/Thumb%20-%20The%20Buckle.png)](./Renders/The%20Buckle.png)
 [![The Buckle-Close](./Renders/Thumb%20-%20The%20Buckle-close.png)](./Renders/The%20Buckle-close.png)
+- Part 10: Eye Lashes   
+[![Eye Lashes](./Renders/Thumb%20-%20Facial%20Hair.png)](./Renders/Facial%20Hair.png)
