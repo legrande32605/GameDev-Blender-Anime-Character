@@ -83,3 +83,5 @@ Following design project to practice scupting
 [![Eye Lashes](./Renders/Thumb%20-%20Facial%20Hair.png)](./Renders/Facial%20Hair.png)
 - Part 11: Shirt Drawstring   
 [![Shirt Drawstring](./Renders/Thumb%20-%20Drawstring.png)](./Renders/Drawstring.png)
+- Part 11: Base Hair   
+[![Base Hair](./Renders/Thumb%20-%20Base%20Hair.png)](./Renders/Base%20Hair.png)
