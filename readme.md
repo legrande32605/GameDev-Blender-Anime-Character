@@ -89,4 +89,4 @@ Following design project to practice scupting
 [![Hair Curves](./Renders/Thumb%20-%20Hair%20Curves.png)](./Renders/Hair%20Curves.png)
 ### Section 4 - Texturing
 - Part 1: Unwrapping the Clothes   
-[![Unwrapping the Clothes](./UVUnwrap/Thumb%20-%20Unwrapping%20the%20Clothes.png)](./UVUnwrap/Unwrapping%20the%20Clothes.png)
+[![Unwrapping the Clothes](./UVUnwrap/Thumb%20-%20Unwrapping%20the%20Clothes.png)](./UVUnwrap/Unwrapping%20the%20Clothes2.png)
