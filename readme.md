@@ -92,3 +92,7 @@ Following design project to practice scupting
 [![Unwrapping the Clothes](./UVUnwrap/Thumb%20-%20Unwrapping%20the%20Clothes.png)](./UVUnwrap/Clothes.png)
 - Part 2: Unwrapping the Body   
 [![Unwrapping the Body](./UVUnwrap/Thumb%20-%20Unwrapping%20the%20Body.png)](./UVUnwrap/Body.png)
+- Part 3: Finishing the Unwrap 
+No updates on this section
+- Part 4: Checking the Unwrap   
+[![Checking the Unwrap](./UVUnwrap/Thumb%20-%20Textured.png)](./UVUnwrap/Textured.png)
