@@ -90,3 +90,5 @@ Following design project to practice scupting
 ### Section 4 - Texturing
 - Part 1: Unwrapping the Clothes   
 [![Unwrapping the Clothes](./UVUnwrap/Thumb%20-%20Unwrapping%20the%20Clothes.png)](./UVUnwrap/Clothes.png)
+- Part 2: Unwrapping the Body   
+[![Unwrapping the Body](./UVUnwrap/Thumb%20-%20Unwrapping%20the%20Body.png)](./UVUnwrap/Body.png)
