@@ -100,3 +100,5 @@ No updates on this section
 [![Base Colors](./Renders/Thumb%20-%20Base%20Colors.png)](./Renders/Base%20Colors.png)
 - Part 6: Paint Mask   
 [![Paint Mask](./Renders/Thumb%20-%20Paint%20Mask.png)](./Renders/Paint%20Mask.png)
+- Part 7: Painting the Eyes  
+[![Painting the Eyes](./Renders/Thumb%20-%20Painting%20the%20Eyes.png)](./Renders/Painting%20the%20Eyes.png)
