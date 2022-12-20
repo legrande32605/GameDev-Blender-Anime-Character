@@ -102,3 +102,5 @@ No updates on this section
 [![Paint Mask](./Renders/Thumb%20-%20Paint%20Mask.png)](./Renders/Paint%20Mask.png)
 - Part 7: Painting the Eyes  
 [![Painting the Eyes](./Renders/Thumb%20-%20Painting%20the%20Eyes.png)](./Renders/Painting%20the%20Eyes.png)
+- Part 8: Painting the Iris  
+[![Painting the Iris](./Renders/Thumb%20-%20Painting%20the%20Iris.png)](./Renders/Painting%20the%20Iris.png)
