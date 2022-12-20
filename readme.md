@@ -98,3 +98,5 @@ No updates on this section
 [![Checking the Unwrap](./UVUnwrap/Thumb%20-%20Textured.png)](./UVUnwrap/Textured.png)
 - Part 5: Base Colors   
 [![Base Colors](./Renders/Thumb%20-%20Base%20Colors.png)](./Renders/Base%20Colors.png)
+- Part 6: Paint Mask   
+[![Paint Mask](./Renders/Thumb%20-%20Paint%20Mask.png)](./Renders/Paint%20Mask.png)
