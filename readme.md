@@ -104,3 +104,5 @@ No updates on this section
 [![Painting the Eyes](./Renders/Thumb%20-%20Painting%20the%20Eyes.png)](./Renders/Painting%20the%20Eyes.png)
 - Part 8: Painting the Iris  
 [![Painting the Iris](./Renders/Thumb%20-%20Painting%20the%20Iris.png)](./Renders/Painting%20the%20Iris.png)
+- Part 9: Painting the Face  
+[![Painting the Face](./Renders/Thumb%20-%20Painting%20the%20Face.png)](./Renders/Painting%20the%20Face.png)
