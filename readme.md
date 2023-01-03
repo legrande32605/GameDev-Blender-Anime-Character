@@ -106,11 +106,12 @@ No updates on this section
 [![Painting the Iris](./Renders/Thumb%20-%20Painting%20the%20Iris.png)](./Renders/Painting%20the%20Iris.png)
 - Part 9: Painting the Face  
 [![Painting the Face](./Renders/Thumb%20-%20Painting%20the%20Face.png)](./Renders/Painting%20the%20Face.png)
-- Part 9: Painting the Body  
+- Part 10: Painting the Body  
     - Texture Image
 [![Painting the Body](./Renders/Thumb%20-%20Painting%20the%20Body.png)](./Renders/Painting%20the%20Body.png)
     - Principal BSDF
 [![Painting the Body-PBSDF](./Renders/Thumb%20-%20Painting%20the%20Body-PBSDF.png)](./Renders/Painting%20the%20Body-PBSDF.png)
     - Side by Side
 [![Painting the Body-Comp](./Renders/Thumb%20-%20Painting%20the%20Body-Comp.png)](./Renders/Painting%20the%20Body-Comp.png)
-
+- Part 11: Painting the Pants  
+[![Painting the Pants](./Renders/Thumb%20-%20Painting%20the%20Pants.png)](./Renders/Painting%20the%20Pants.png)
