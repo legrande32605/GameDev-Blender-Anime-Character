@@ -115,3 +115,5 @@ No updates on this section
 [![Painting the Body-Comp](./Renders/Thumb%20-%20Painting%20the%20Body-Comp.png)](./Renders/Painting%20the%20Body-Comp.png)
 - Part 11: Painting the Pants  
 [![Painting the Pants](./Renders/Thumb%20-%20Painting%20the%20Pants.png)](./Renders/Painting%20the%20Pants.png)
+- Part 12: Painting the Boots  
+[![Painting the Boots](./Renders/Thumb%20-%20Painting%20the%20Boots.png)](./Renders/Painting%20the%20Boots.png)
