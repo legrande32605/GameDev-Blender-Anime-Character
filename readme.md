@@ -117,3 +117,5 @@ No updates on this section
 [![Painting the Pants](./Renders/Thumb%20-%20Painting%20the%20Pants.png)](./Renders/Painting%20the%20Pants.png)
 - Part 12: Painting the Boots  
 [![Painting the Boots](./Renders/Thumb%20-%20Painting%20the%20Boots.png)](./Renders/Painting%20the%20Boots.png)
+- Part 13: Painting the Shirt  
+[![Painting the Shirt](./Renders/Thumb%20-%20Painting%20the%20Shirt.png)](./Renders/Painting%20the%20Shirt.png)
