@@ -119,3 +119,7 @@ No updates on this section
 [![Painting the Boots](./Renders/Thumb%20-%20Painting%20the%20Boots.png)](./Renders/Painting%20the%20Boots.png)
 - Part 13: Painting the Shirt  
 [![Painting the Shirt](./Renders/Thumb%20-%20Painting%20the%20Shirt.png)](./Renders/Painting%20the%20Shirt.png)
+- Part 14: The Buckle and Drawstring  
+[![The Buckle and Drawstring](./Renders/Thumb%20-%20Buckle.png)](./Renders/Buckle.png)
+- Part 13: The Hair  
+[![The Hair](./Renders/Thumb%20-%20The%20Hair.png)](./Renders/The%20Hair.png)
