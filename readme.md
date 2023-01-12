@@ -123,3 +123,6 @@ No updates on this section
 [![The Buckle and Drawstring](./Renders/Thumb%20-%20Buckle.png)](./Renders/Buckle.png)
 - Part 13: The Hair  
 [![The Hair](./Renders/Thumb%20-%20The%20Hair.png)](./Renders/The%20Hair.png)
+### Section 4 - Rigging &amp; Posing
+- Part 1: The Armature  
+[![The Armature](./Renders/Thumb%20-%20Dem%20Bones.png)](./Renders/Dem%20Bones.png)
