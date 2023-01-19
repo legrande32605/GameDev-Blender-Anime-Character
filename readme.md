@@ -126,3 +126,6 @@ No updates on this section
 ### Section 4 - Rigging &amp; Posing
 - Part 1: The Armature  
 [![The Armature](./Renders/Thumb%20-%20Dem%20Bones.png)](./Renders/Dem%20Bones.png)
+- Part 2-4: No Updates  
+- Part 5: Rigging the Clothes  
+[![The Rigging the Clothes](./Renders/Thumb%20-%20Rigging%20the%20Clothes.png)](./Renders/Rigging%20the%20Clothes.png)
