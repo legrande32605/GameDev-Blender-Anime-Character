@@ -129,3 +129,5 @@ No updates on this section
 - Part 2-4: No Updates  
 - Part 5: Rigging the Clothes  
 [![The Rigging the Clothes](./Renders/Thumb%20-%20Rigging%20the%20Clothes.png)](./Renders/Rigging%20the%20Clothes.png)
+- Part 6: Masking the Body  
+[![Masking the Body](./Renders/Thumb%20-%20Masking%20the%20Body.png)](./Renders/Masking%20the%20Body.png)
